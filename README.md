@@ -1,3 +1,5 @@
+# Python co ban
+##### Bài viết thực hiện bởi nhóm AI Jumpzero
 ## **INTRODUCTION**
 Mùa thu này, khi tham gia khóa học AI Foundation Course mình học được một ngôn ngữ lập trình mới là Python- COn Trăn :)). Tại thời điểm này Python là ngôn ngữ xử lí mạnh mẽ cho Data Analytics, Machine Learning, Computing Science v.v..
 
